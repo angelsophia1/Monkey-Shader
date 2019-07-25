@@ -1,4 +1,4 @@
-# Monkey-Shader
+# Shader-Graph
  
 It is a Unity3d project to demonstrate different effects of three shader graphs applied to the 3D monkey model.
 
