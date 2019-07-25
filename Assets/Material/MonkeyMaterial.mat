@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MonkeyMaterial
+  m_Shader: {fileID: 4800000, guid: 7ac63b9f5ba3e8b4d96d2ea1e856e009, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_C4C7CC68:
+        m_Texture: {fileID: 2800000, guid: f6634e2764099d34a9b8059a44236d97, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_960A6ACE: {r: 1.498039, g: 0.9960784, b: 0.4784314, a: 0}
+    - Color_DD085DBB: {r: 0.8113208, g: 0.7012465, b: 0.61614454, a: 0}
